@@ -18,11 +18,11 @@ In each episode the deliverable resouce types have **`Video (.mp4)`**, **`Slide 
 
 I've built the promotional activity for the curriculum. Namely, there has **4** number of episodes (**1**, **6**, **11** and **16**) are **`free`**. In fact you just master the **extra 12** number of Oracle knowledge skills in this course (you'll find them after **finish paying $12** from [https://quanwenzhao.gumroad.com/l/ESIPSYvEOAODDaMlb1erb](https://quanwenzhao.gumroad.com/l/ESIPSYvEOAODDaMlb1erb)).
 
-Here's an image about the **extra 12 number of episodes** when you finished purchasing this course.
+Here're images about the **extra 12 number of episodes** when you finished purchasing this course.
 
-![](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/17-Number-of-Impressed-Pain-Spots-You've-Encountered-Once-About-Oracle-SQL-Development-Paid-1.png)
+![](https://guestart.github.io/ESIPSYvEOAODDaMlb1erb/ESIPSYvEOAODDaMlb1erb-paid-portion-1.png)
 
-![](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/17-Number-of-Impressed-Pain-Spots-You've-Encountered-Once-About-Oracle-SQL-Development-Paid-2.png)
+![](https://guestart.github.io/ESIPSYvEOAODDaMlb1erb/ESIPSYvEOAODDaMlb1erb-paid-portion-2.png)
 
 ### Note:
 
